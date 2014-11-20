@@ -1,0 +1,12 @@
+{
+  "name": "zeujs-bootstrap4apollo",
+  "version": "0.0.1-alpha",
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "less": "~2.0.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ZeuJS/ApolloBootstrap.git"
+  }
+}

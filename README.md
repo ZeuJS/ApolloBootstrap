@@ -1,4 +1,5 @@
-ApolloBootstrap
-===============
+ZeuJSApolloBootstrap
 
-Base template for bootstrap template inheritance
+====================
+
+Bootstrap Provider for ZeuJSApollo
