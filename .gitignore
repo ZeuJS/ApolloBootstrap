@@ -1,5 +1,9 @@
 template/public/css/*
 !template/public/css/.gitkeep
+template/public/bootstrap
+template/public/fonts
+template/public/jquery
+template/public/js
 
 ### Node ###
 # Logs
